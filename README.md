@@ -1,3 +1,5 @@
+<img width="357" alt="Screenshot 2024-01-12 at 9 52 06 PM" src="https://github.com/Rupali-app-hub/SaloonifyApp/assets/152596991/af29d981-7478-48ec-a66c-6bbdbbfe6579">
+
 This is a basic booking app using React Native where users can view available time slots and book appointments. 
 
 sign up to the App by providing name,email id, password
