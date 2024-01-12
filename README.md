@@ -1,4 +1,12 @@
-This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
+This is a basic booking app using React Native where users can view available time slots and book appointments. 
+
+sign up to the App by providing name,email id, password
+
+Use the same credential to login to the App.
+
+landing on Splash Screen
+
+After that you will be navigate  to the home screen where you can book the appointment 
 
 # Getting Started
 
